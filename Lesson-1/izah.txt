@@ -1,0 +1,15 @@
+byte +(0-255)
+sbyte - +
+int - +
+uint +
+long -+ 
+ulong +
+
+{kesr ededler ucun}
+float
+double 
+decimal
+
+char-tek simvollar 'M'    , '5'
+
+string -metn ifadeler
