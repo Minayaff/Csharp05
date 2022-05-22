@@ -5,7 +5,6 @@
 ## Tələbələr
  - [Famil]()
  - [Elcan]()
- - [Gulcin]()
  - [Sahin]()
  - [Xuraman]()
  - [Arzu]() - 
