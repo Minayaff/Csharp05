@@ -28,3 +28,15 @@
 <a href="https://www.guru99.com/difference-compiler-vs-interpreter.html">Interpreter Vs Compiler 2</a> <br>
 Task! <br/>
 Her kes ozu bir cs file yaradib build etmelidir commandda
+
+<h1> Lesson-2 [22 may 2022] </h1>
+<hr>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-switch">switch case </a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-if-else"> if else</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-for-loop">for loop </a> <br>
+<a href=""> </a> <br>
+<a href=""> </a> <br>
+
+1)Daxil edilən ədədin vurma cədvəlini yazdiran algoritmi qurun;
+2)1 le verilmis eded arasinda kvadratlari cemi algoritmini qurun;
+3)1 le verilmiş ədəd arasındaki ədədlərin hasili ilə cəminin fərqini hesablayan algoritmi qurun;
