@@ -34,8 +34,7 @@ Her kes ozu bir cs file yaradib build etmelidir commandda
 <a href="https://www.tutorialsteacher.com/csharp/csharp-switch">switch case </a> <br>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-if-else"> if else</a> <br>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-for-loop">for loop </a> <br>
-<a href=""> </a> <br>
-<a href=""> </a> <br>
+<a href=""> </a> 
 
 1)Daxil edilən ədədin vurma cədvəlini yazdiran algoritmi qurun;
 2)1 le verilmis eded arasinda kvadratlari cemi algoritmini qurun;
