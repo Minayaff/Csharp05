@@ -36,6 +36,6 @@ Her kes ozu bir cs file yaradib build etmelidir commandda
 <a href="https://www.tutorialsteacher.com/csharp/csharp-for-loop">for loop </a> <br>
 <a href=""> </a> 
 
-1)Daxil edilən ədədin vurma cədvəlini yazdiran algoritmi qurun;
-2)1 le verilmis eded arasinda kvadratlari cemi algoritmini qurun;
-3)1 le verilmiş ədəd arasındaki ədədlərin hasili ilə cəminin fərqini hesablayan algoritmi qurun;
+1)Daxil edilən ədədin vurma cədvəlini yazdiran algoritmi qurun; <br>
+2)1 le verilmis eded arasinda kvadratlari cemi algoritmini qurun; <br>
+3)1 le verilmiş ədəd arasındaki ədədlərin hasili ilə cəminin fərqini hesablayan algoritmi qurun; <br>
