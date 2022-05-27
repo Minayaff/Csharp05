@@ -1,0 +1,14 @@
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\bin\Debug\netcoreapp3.1\Lesson2Csharp05.exe
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\bin\Debug\netcoreapp3.1\Lesson2Csharp05.deps.json
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\bin\Debug\netcoreapp3.1\Lesson2Csharp05.runtimeconfig.json
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\bin\Debug\netcoreapp3.1\Lesson2Csharp05.runtimeconfig.dev.json
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\bin\Debug\netcoreapp3.1\Lesson2Csharp05.dll
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\bin\Debug\netcoreapp3.1\Lesson2Csharp05.pdb
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\obj\Debug\netcoreapp3.1\Lesson2Csharp05.csproj.AssemblyReference.cache
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\obj\Debug\netcoreapp3.1\Lesson2Csharp05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\obj\Debug\netcoreapp3.1\Lesson2Csharp05.AssemblyInfoInputs.cache
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\obj\Debug\netcoreapp3.1\Lesson2Csharp05.AssemblyInfo.cs
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\obj\Debug\netcoreapp3.1\Lesson2Csharp05.csproj.CoreCompileInputs.cache
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\obj\Debug\netcoreapp3.1\Lesson2Csharp05.dll
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\obj\Debug\netcoreapp3.1\Lesson2Csharp05.pdb
+C:\Users\Minaye.Ferzeliyeva\source\repos\Lesson2Csharp05\Lesson2Csharp05\obj\Debug\netcoreapp3.1\Lesson2Csharp05.genruntimeconfig.cache
