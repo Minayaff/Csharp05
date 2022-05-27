@@ -39,3 +39,10 @@ Her kes ozu bir cs file yaradib build etmelidir commandda
 1)Daxil edilən ədədin vurma cədvəlini yazdiran algoritmi qurun; <br>
 2)1 le verilmis eded arasinda kvadratlari cemi algoritmini qurun; <br>
 3)1 le verilmiş ədəd arasındaki ədədlərin hasili ilə cəminin fərqini hesablayan algoritmi qurun; <br>
+
+<h1> Lesson-3 [26 may 2022] </h1>
+<hr>
+<a href="https://www.w3schools.com/cs/cs_methods.php">cs methods </a> <br>
+<a href="https://www.w3schools.com/cs/cs_method_parameters.php">cs method parameters </a> <br>
+
+
