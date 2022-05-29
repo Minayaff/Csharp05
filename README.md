@@ -7,8 +7,9 @@
  - [Elcan]()
  - [Sahin]()
  - [Xuraman]()
- - [Arzu]() - 
- - [Ruslan]() - 
+ - [Arzu]() 
+ - [Ruslan]() 
+ - [Orxan]() 
 
  
 <h1> Istifade olunan documentationlar </h1>
