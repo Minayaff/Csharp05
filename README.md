@@ -4,11 +4,11 @@
 
 ## Tələbələr
  - [Famil]()
- - [Elcan]()
- - [Sahin]()
+ - [Elcan](https://github.com/Eldjan/Csharp)
+ - [Sahin](https://github.com/Sahin6033/CSharp)
  - [Xuraman]()
- - [Arzu]() 
- - [Ruslan]() 
+ - [Arzu](https://github.com/dadasovarzu/CSharp) 
+ - [Ruslan](https://github.com/Ruslantahirov/CSharp) 
  - [Orxan]() 
 
  
