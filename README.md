@@ -10,6 +10,9 @@
  - [Arzu](https://github.com/dadasovarzu/CSharp) 
  - [Ruslan](https://github.com/Ruslantahirov/CSharp) 
  - [Orxan]() 
+ - [Murad]() 
+ - [Zaleddin]() 
+ 
 
  
 <h1> Istifade olunan documentationlar </h1>
