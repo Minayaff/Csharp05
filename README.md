@@ -46,3 +46,22 @@ Her kes ozu bir cs file yaradib build etmelidir commandda
 <a href="https://www.w3schools.com/cs/cs_methods.php">cs methods </a> <br>
 <a href="https://www.w3schools.com/cs/cs_method_parameters.php">cs method parameters </a> <br>
 <a href="https://www.geeksforgeeks.org/c-sharp-method-overloading/">method overloading</a> <br>
+
+<h1> Lesson-4 [31 may 2022] </h1>
+<hr>
+<a href="https://www.c-sharpcorner.com/blogs/type-casting-in-c-sharp">Type Casting> </a> <br>
+<a href="https://www.c-sharpcorner.com/article/boxing-and-unboxing2/">Boxing and Unboxing </a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/array-csharp"> Arrays</a> <br>
+
+Asagida qeyd etdiyim algoritimleri ozunuz yazin, c#da hazir yazilmis methodlardan istifade etmeyin <br>
+1.bool a=(3+4*2==2*3)&&(true+false/2) ifadəsinin nəticəsi nədir və səbəbini qeyd edin.. (xahis olunur kodu vs-da yazmayin dusunun!) <br>
+2.Verilən 4 rəqəmli ədədin rəqəmlərinin cəmini tapan proqram yazın (Nümunə : int a=1298 Nəticə : 1+2+9+8=20)  <br>
+3.Verilən ədədin rəqəmləri arasında olan tək rəqəmləri ekranda göstərən proqram yazın (Nümunə : int a=1298 Nəticə : 1,9)  <br>
+4.Console.Readline vasitesile ilə istifadəçinin yaşını daxil etməsini istəyin.  <br>
+İstifadəçinin yaşı 30-dan kiçikdirsə istifadəçinin yaşının kvadratını ekrana çap edin  <br>
+Yaş 30-40 aralığındadırsa daxil edilən ədədin son rəqəmini ekrana çap edin  <br>
+Yaş 0-dan kiçik vəya 100-dən böyükdürsə ekrana "Düzgün məlumat daxil etməmisiniz" yazdırın  <br>
+5. Arrayin en boyuk elementini tapan method  <br>
+6. Arrayin en kicik elementini tapan methiod  <br>
+<b>Ugurlar! </b> :) <br>
+
