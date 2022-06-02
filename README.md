@@ -11,7 +11,7 @@
  - [Ruslan](https://github.com/Ruslantahirov/CSharp) 
  - [Orxan]() 
  - [Murad]() 
- - [Zaleddin]() 
+ - [Zaleddin](https://github.com/Zaladdin/CSharp) 
  
 
  
