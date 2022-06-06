@@ -3,7 +3,6 @@
 <a href="https://drive.google.com/drive/folders/175RHgO9v1dRiNDUrbSDMlMrXw17mLqTF?usp=sharing">Drive Link(Video dersler)</a> <br>
 
 ## Tələbələr
- - [Famil]()
  - [Elcan](https://github.com/Eldjan/Csharp)
  - [Sahin](https://github.com/Sahin6033/CSharp)
  - [Xuraman]()
