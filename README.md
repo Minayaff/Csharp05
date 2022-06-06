@@ -68,6 +68,7 @@ Yaş 0-dan kiçik vəya 100-dən böyükdürsə ekrana "Düzgün məlumat daxil 
 <b>Ugurlar! </b> :) <br>
 
 <h1> Lesson-5 [02 iyun 2022] </h1>
+<h4>Oxumalı mövzular</h4>
 <hr>
 <a href="https://www.educba.com/stack-vs-heap-memory/"> Stack vs Heap Memory</a> <br>
 <a href="https://www.youtube.com/watch?v=Dcdd6SfUUKA">C# Stack Value Type </a> <br>
