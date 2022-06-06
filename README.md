@@ -68,3 +68,6 @@ Yaş 0-dan kiçik vəya 100-dən böyükdürsə ekrana "Düzgün məlumat daxil 
 6. Arrayin en kicik elementini tapan methiod  <br>
 <b>Ugurlar! </b> :) <br>
 
+<h1> Lesson-5 [02 iyun 2022] </h1>
+<hr>
+Tekrar 
