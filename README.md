@@ -34,6 +34,7 @@ Her kes ozu bir cs file yaradib build etmelidir commandda
 
 <h1> Lesson-2 [22 may 2022] </h1>
 <hr>
+<h4>Oxumalı mövzular</h4>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-switch">switch case </a> <br>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-if-else"> if else</a> <br>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-for-loop">for loop </a> <br>
@@ -45,12 +46,14 @@ Her kes ozu bir cs file yaradib build etmelidir commandda
 
 <h1> Lesson-3 [26 may 2022] </h1>
 <hr>
+<h4>Oxumalı mövzular</h4>
 <a href="https://www.w3schools.com/cs/cs_methods.php">cs methods </a> <br>
 <a href="https://www.w3schools.com/cs/cs_method_parameters.php">cs method parameters </a> <br>
 <a href="https://www.geeksforgeeks.org/c-sharp-method-overloading/">method overloading</a> <br>
 
 <h1> Lesson-4 [31 may 2022] </h1>
 <hr>
+<h4>Oxumalı mövzular</h4>
 <a href="https://www.c-sharpcorner.com/blogs/type-casting-in-c-sharp">Type Casting> </a> <br>
 <a href="https://www.c-sharpcorner.com/article/boxing-and-unboxing2/">Boxing and Unboxing </a> <br>
 <a href="https://www.tutorialsteacher.com/csharp/array-csharp"> Arrays</a> <br>
@@ -68,8 +71,8 @@ Yaş 0-dan kiçik vəya 100-dən böyükdürsə ekrana "Düzgün məlumat daxil 
 <b>Ugurlar! </b> :) <br>
 
 <h1> Lesson-5 [02 iyun 2022] </h1>
-<h4>Oxumalı mövzular</h4>
 <hr>
+<h4>Oxumalı mövzular</h4>
 <a href="https://www.educba.com/stack-vs-heap-memory/"> Stack vs Heap Memory</a> <br>
 <a href="https://www.youtube.com/watch?v=Dcdd6SfUUKA">C# Stack Value Type </a> <br>
 <a href="https://www.youtube.com/watch?v=BovQ9a3TpuI"> C# Heap Reference Type</a> <br>
