@@ -76,3 +76,12 @@ Yaş 0-dan kiçik vəya 100-dən böyükdürsə ekrana "Düzgün məlumat daxil 
 <a href="https://www.educba.com/stack-vs-heap-memory/"> Stack vs Heap Memory</a> <br>
 <a href="https://www.youtube.com/watch?v=Dcdd6SfUUKA">C# Stack Value Type </a> <br>
 <a href="https://www.youtube.com/watch?v=BovQ9a3TpuI"> C# Heap Reference Type</a> <br>
+
+<h1> Lesson-6 [09 iyun 2022] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://www.c-sharpcorner.com/UploadFile/c63ec5/use-params-keyword-in-C-Sharp/"> Use Params Keyword in C#</a> <br>
+Task <br>
+1. Verilmis sozun palindrome oldugunu yoxlayan algoritm mes:input: ana, output: ana (soldan ve sagdan eyni oxunur) . Her iki tipde method yazin(void ve return type string olan). Method bir parametr qebul edecek(yeni soz qebul edecek) <br>
+2. Verilmis arrayin icinde elementin olub olmadiginii yoxlayan bir method yazin(int[] x =[1,2,3,4,6,8,98] bu arrayin icinde 4 ededinin olub olmadigini yoxlayan method yazin). Method her iki tipde olacaq(void ve return type int olan). Method 2 parametr qebul edecek array ve element <br>
+3. Verilmis arrayin elementlerinin hasilinden cemini cixin son neticeni ekrana cixarin(hasil-cem=ferq). Method paramsla parametr qebul etsin.  <br>
