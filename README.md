@@ -85,3 +85,27 @@ Task <br>
 1. Verilmis sozun palindrome oldugunu yoxlayan algoritm mes:input: ana, output: ana (soldan ve sagdan eyni oxunur) . Her iki tipde method yazin(void ve return type string olan). Method bir parametr qebul edecek(yeni soz qebul edecek) <br>
 2. Verilmis arrayin icinde elementin olub olmadiginii yoxlayan bir method yazin(int[] x =[1,2,3,4,6,8,98] bu arrayin icinde 4 ededinin olub olmadigini yoxlayan method yazin). Method her iki tipde olacaq(void ve return type int olan). Method 2 parametr qebul edecek array ve element <br>
 3. Verilmis arrayin elementlerinin hasilinden cemini cixin son neticeni ekrana cixarin(hasil-cem=ferq). Method paramsla parametr qebul etsin.  <br>
+
+
+<h1> Lesson-7 [12 iyun 2022] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://www.javatpoint.com/csharp-string-compare">C# String Compare </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-concat">String Concat() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-contains">String Contains() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-equals">String Equals() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-indexof">String IndexOf() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-isnullorempty">String IsNullOrEmpty() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-isnullorwhitespace">String IsNullOrWhiteSpace() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-join">String Join() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-lastindexof">String LastIndexOf() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-remove">String Remove() </a> <br>
+<a href="javatpoint.com/csharp-string-replace"> String Replace()</a> <br>
+<a href="https://www.javatpoint.com/csharp-string-split">String Split </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-substring">String SubString() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-tochararray">String ToCharArray() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-tolower">String ToLower() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-tostring">String ToString() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-toupper">String ToUpper() </a> <br>
+<a href="https://www.javatpoint.com/csharp-string-trim">String Trim() </a> <br>
+Task <br>
