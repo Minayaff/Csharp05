@@ -8,7 +8,7 @@
  - [Xuraman]()
  - [Arzu](https://github.com/dadasovarzu/CSharp) 
  - [Ruslan](https://github.com/Ruslantahirov/CSharp) 
- - [Orxan](https://github.com/orxansharifov/CSharpOrxan) 
+ - [Orxan](https://github.com/orxansharifov/Csharp) 
  - [Murad](https://github.com/murad114/Csharp) 
  - [Zaleddin](https://github.com/Zaladdin/CSharp) 
  
