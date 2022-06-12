@@ -1,0 +1,6 @@
+C:\Users\Mina\source\repos\Csharp05Lesson\bin\Debug\Csharp05Lesson.exe.config
+C:\Users\Mina\source\repos\Csharp05Lesson\bin\Debug\Csharp05Lesson.exe
+C:\Users\Mina\source\repos\Csharp05Lesson\bin\Debug\Csharp05Lesson.pdb
+C:\Users\Mina\source\repos\Csharp05Lesson\obj\Debug\Csharp05Lesson.csprojAssemblyReference.cache
+C:\Users\Mina\source\repos\Csharp05Lesson\obj\Debug\Csharp05Lesson.exe
+C:\Users\Mina\source\repos\Csharp05Lesson\obj\Debug\Csharp05Lesson.pdb
