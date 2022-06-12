@@ -1,0 +1,6 @@
+C:\Users\Mina\source\repos\CsharpPractica\bin\Debug\CsharpPractica.exe.config
+C:\Users\Mina\source\repos\CsharpPractica\bin\Debug\CsharpPractica.exe
+C:\Users\Mina\source\repos\CsharpPractica\bin\Debug\CsharpPractica.pdb
+C:\Users\Mina\source\repos\CsharpPractica\obj\Debug\CsharpPractica.csprojAssemblyReference.cache
+C:\Users\Mina\source\repos\CsharpPractica\obj\Debug\CsharpPractica.exe
+C:\Users\Mina\source\repos\CsharpPractica\obj\Debug\CsharpPractica.pdb
