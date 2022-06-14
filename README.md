@@ -109,3 +109,14 @@ Task <br>
 <a href="https://www.javatpoint.com/csharp-string-toupper">String ToUpper() </a> <br>
 <a href="https://www.javatpoint.com/csharp-string-trim">String Trim() </a> <br>
 Task <br>
+### Tapşırıqlar
+
+1. FindCharIndex metodu - pramater olaraq 1 string ve 1 char value qebul edir ve gonderilmis char deyeri gonderilmis string deyerinde necenci indexde yerlesirse hemin indexi geri qaytarir, eger tapilmasa -1 qaytarir. Misal ucun metodu call ederken "alama" ve 'c' deyerlerini gondersek metod bize -1, "alma" ve 'a' deyerlerini gondersek 0 qaytarmalidir
+ Bu metodu Main metodunda call edib isledeceksiniz.Metodu call ederken gondereceyiniz deyerleri Main metodunda console-dan istifadeci daxil etmelidir.
+   
+2. IsPrime metodu - parametr olaraq ineteger value qebul edir. Gonderilims integer deyerin sade olub olmadigini qaytarir.Eded sadedirse true, deyilse false qayitmalidir
+
+
+3. CalcAvg metodu - Gondeirlmis imtahanlar qiymeti siyahisina (integer array) esasen hemin qiymetlerin ortalamasini qaytaran metod yazin.
+   Main metodunda bu metodu call edib, burdan qayidan deyere esasen ortalama 60-dan boyukdursa console-da "mezun oldunuz" eks halda "mezun ola bilmediniz" yazisi yazdirin
+
