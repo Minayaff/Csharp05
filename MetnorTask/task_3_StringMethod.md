@@ -1,4 +1,4 @@
-####  Verilən str='Proqramalaşdırma nə qədər çox şey bildiyinizlə yox, bildiyinizlə ortaya çıxardığınız işlərlə maraqlanır'
+####  Verilən string str="Proqramalaşdırma nə qədər çox şey bildiyinizlə yox, bildiyinizlə ortaya çıxardığınız işlərlə maraqlanır"
   -   str daxilində neçə xarakter olduğunu ekrana yazdırın
   -   str daxilində neçə hərf olduğunu ekrana yazdırın
   -   str daxilindəki sözləri ayrı bir massiv içərisində toplayın
