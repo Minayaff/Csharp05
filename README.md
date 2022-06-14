@@ -108,7 +108,6 @@ Task <br>
 <a href="https://www.javatpoint.com/csharp-string-tostring">String ToString() </a> <br>
 <a href="https://www.javatpoint.com/csharp-string-toupper">String ToUpper() </a> <br>
 <a href="https://www.javatpoint.com/csharp-string-trim">String Trim() </a> <br>
-Task <br>
 ### Tapşırıqlar
 
 1. FindCharIndex metodu - pramater olaraq 1 string ve 1 char value qebul edir ve gonderilmis char deyeri gonderilmis string deyerinde necenci indexde yerlesirse hemin indexi geri qaytarir, eger tapilmasa -1 qaytarir. Misal ucun metodu call ederken "alama" ve 'c' deyerlerini gondersek metod bize -1, "alma" ve 'a' deyerlerini gondersek 0 qaytarmalidir
