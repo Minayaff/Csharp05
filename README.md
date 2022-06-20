@@ -119,3 +119,9 @@ Task <br>
 3. CalcAvg metodu - Gondeirlmis imtahanlar qiymeti siyahisina (integer array) esasen hemin qiymetlerin ortalamasini qaytaran metod yazin.
    Main metodunda bu metodu call edib, burdan qayidan deyere esasen ortalama 60-dan boyukdursa console-da "mezun oldunuz" eks halda "mezun ola bilmediniz" yazisi yazdirin
 
+<h1> Lesson-8 [19 iyun 2022] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://medium.com/@minafrzli/ref-out-keyword-c-80f21b025123">Ref & out keyword C# (az) </a> <br>
+<a href="https://www.c-sharpcorner.com/UploadFile/ff2f08/ref-vs-out-keywords-in-C-Sharp/">Ref & out keyword C# (en) </a> <br>
+Quize ciddi hazirlasin
