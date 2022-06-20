@@ -124,4 +124,5 @@ Task <br>
 <h4>Oxumalı mövzular</h4>
 <a href="https://medium.com/@minafrzli/ref-out-keyword-c-80f21b025123">Ref & out keyword C# (az) </a> <br>
 <a href="https://www.c-sharpcorner.com/UploadFile/ff2f08/ref-vs-out-keywords-in-C-Sharp/">Ref & out keyword C# (en) </a> <br>
+<a href="https://www.gencayyildiz.com/blog/cta-array-sinifi-ozellikleri-ve-metodlari/?amp=1">C# Array Sınıfı Özellikleri ve Metodları </a> <br>
 Quize ciddi hazirlasin
