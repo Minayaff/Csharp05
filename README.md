@@ -126,4 +126,11 @@ Quize ciddi hazirlasin
 <h1> Lesson-9 [29 iyun 2022] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
-
+Student class-i yaradin:<br>
+Fullname <br>
+GroupNo<br>
+Age<br>
+Her 3 parametr obyekt yaradilan anda doldurulmalidir <br>
+Student Arrayi yaradin. <br>
+Qrup nomresini daxil etmekle bir qrupda nece telebenin oxudugunu check eden method yazin.(methoda 2ci parametr kimi array daxil edeceksiz)<br>
+Telebenin adini daxil etmekle qrupunu qaytaran method yazin.(2ci parametr kimi array daxil edeceksiz)<br>
