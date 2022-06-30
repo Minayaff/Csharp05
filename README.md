@@ -5,11 +5,7 @@
 ## Tələbələr
  - [Elcan](https://github.com/Eldjan/Csharp)
  - [Sahin](https://github.com/Sahin6033/CSharp)
- - [Xuraman]()
- - [Arzu](https://github.com/dadasovarzu/CSharp) 
- - [Ruslan](https://github.com/Ruslantahirov/CSharp) 
  - [Orxan](https://github.com/orxansharifov/Csharp) 
- - [Murad](https://github.com/murad114/Csharp) 
  - [Zaleddin](https://github.com/Zaladdin/CSharp) 
  
 
@@ -126,3 +122,8 @@ Task <br>
 <a href="https://www.c-sharpcorner.com/UploadFile/ff2f08/ref-vs-out-keywords-in-C-Sharp/">Ref & out keyword C# (en) </a> <br>
 <a href="https://www.gencayyildiz.com/blog/cta-array-sinifi-ozellikleri-ve-metodlari/?amp=1">C# Array Sınıfı Özellikleri ve Metodları </a> <br>
 Quize ciddi hazirlasin
+
+<h1> Lesson-9 [29 iyun 2022] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+
