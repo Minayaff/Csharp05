@@ -123,7 +123,15 @@ Task <br>
 <a href="https://www.gencayyildiz.com/blog/cta-array-sinifi-ozellikleri-ve-metodlari/?amp=1">C# Array Sınıfı Özellikleri ve Metodları </a> <br>
 Quize ciddi hazirlasin
 
-<h1> Lesson-9 [29 iyun 2022] </h1>
+<h1> Lesson-9 [24 iyun 2022] </h1>
+Quiz neticesi <br>
+Orxan 15 <br>
+Zaleddin 19 <br>
+Xurus +12 <br>
+Elcan 13 <br>
+Sahin 21 <br>
+
+<h1> Lesson-10 [29 iyun 2022] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
 Student class-i yaradin:<br>
