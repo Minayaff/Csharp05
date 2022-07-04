@@ -134,6 +134,8 @@ Sahin 21 <br>
 <h1> Lesson-10 [29 iyun 2022] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
+<a href="https://www.geeksforgeeks.org/c-sharp-class-and-object/">C# | Class and Object </a> <br>
+Quize ciddi hazirlasin
 Student class-i yaradin:<br>
 Fullname <br>
 GroupNo<br>
@@ -142,3 +144,23 @@ Her 3 parametr obyekt yaradilan anda doldurulmalidir <br>
 Student Arrayi yaradin. <br>
 Qrup nomresini daxil etmekle bir qrupda nece telebenin oxudugunu check eden method yazin.(methoda 2ci parametr kimi array daxil edeceksiz)<br>
 Telebenin adini daxil etmekle qrupunu qaytaran method yazin.(2ci parametr kimi array daxil edeceksiz)<br>
+
+
+<h1> Lesson-11 [03 iyul 2022] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-class">C#  Class </a> <br>
+Account - class
+<ul>
+ <li>No - her bir account obyektinin unique nomersidir ve onun necenci yarandigini gosterir</li>
+ <li>Username </li>
+ <li>Password</li>
+ </ul>
+
+IsUserNameValid() method - username yanlizca digit ve herflerden ibaret ola biler yoxlanisi
+
+IsPasswordValid() method-uzunluq 8-25, siferenin icinde en az bir symbol,1 uppurcase letter ve en az bir digit istifade olunmalidir yoxlanisi
+console readlinedan aldiginiz datani bu methodlarda yoxlayib sonra yeni obyekte menimsedeceksiz...
+
+1.Constructorda name ve password qebul edilsin
+
