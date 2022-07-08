@@ -164,3 +164,65 @@ console readlinedan aldiginiz datani bu methodlarda yoxlayib sonra yeni obyekte 
 
 1.Constructorda name ve password qebul edilsin
 
+
+
+<h1> Lesson-12 [07 iyul 2022] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-collection">Non-generic Collections</a> <br/>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-arraylist">C# - ArrayList</a> <br/>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-hashtable">C# - Hashtable</a> <br/>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-stack">stack</a> <br/>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-queue">queue</a> <br/>
+<a href="https://www.geeksforgeeks.org/c-sharp-constructor-overloading/">constructor overloading </a> <br/>
+Task <br/>
+### 1) Aşağıdaki tapşırığı yerinə yetirin:
+
+a) Key və value-su string tipində olan Hashtable yaradın.
+
+b) İstifadəçidən 10 dəfə iki söz yazılması istənilsin:
+
+b.1) Birinci söz ölkə adı.
+b.2) İkinci söz paytaxt adı.
+
+c) Daha sonra istifadəçi ölkə adı yazaraq daxil edilən list-dən paytaxt adını almalıdır. 
+
+d) Əgər istifadəçi ölkə adı əvəzinə "all" sözü daxil edilərsə, Hashtable-də olan bütün ölkə-paytaxlar print edilsin.
+
+e) Nəticəni aldıqdan sonra yeni paytaxt axtarışı edilsin yoxsa proqram bitsin deyə istifadəçidən soruşulmalıdır və cavaba müvafiq əməliyyat baş verməlidir.
+
+Misal üçün:
+
+Proqram çalışarkən aşağıdakilər baş verməlidi:
+
+Əvvəl belə mesaj çıxır:
+"Hörmətli istifadəçi! Zəhmət olmasa ölkə adı qeyd edin."
+
+Daha sonra ölkə adını yazmaq istənilir.
+
+Daha sonra bu mesaj çıxır:
+"Hörmətli istifadəçi! Zəhmət olmasa ölkəyə aid paytaxt qeyd edin."
+
+Paytaxt adını yazmaq istənilir.
+
+Bütün bu proses 10 dəfə təkrarlanır və Hashtable dolur. Daha sonra istifadəçidən bir ölkə adı yazmaq istənilir:
+
+"Hörmətli istifadəçi! Zəhmət olmasa paytaxtını tapmaq istədiyiniz ölkənin adını qeyd edin."
+
+İstifadəçi "Azərbaycan" yazarsa Hashtable-də həmin key-ə görə search edib, ona uyğun value-nu, yəni "Bakı" sözünü qaytarıb, ekrana print etmək lazımdı.
+Əgər istifadəçi ölkə adı əvəzinə "all" sözü daxil edilərsə, Hashtable-də olan bütün ölkə-paytaxlar print edilsin.
+
+Print etdikdən sonra soruşulur:
+"Yeni paytaxt axtarılsın? Y/N"
+
+İstifadəçi "Y" yazarsa yeni axtarış üçün ölkə adı istənilsin, "N" basarsa proqramdan çıxsın.
+
+### 2) Aşağıdaki tapşırığı yerinə yetirin:
+
+a) Queue list-i yaradın.
+
+b) İçini müxtəlif mesajlarla doldurun.
+
+c) Əgər məlumat 10 item-dən çox olarsa, növbədə (queue-list) sonuncu olan elementi boşaldıb, yerinə yeni məlumatı salın.
+
+
