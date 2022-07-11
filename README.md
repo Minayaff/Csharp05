@@ -231,6 +231,8 @@ c) Əgər məlumat 10 item-dən çox olarsa, növbədə (queue-list) sonuncu ola
 <a href="https://medium.com/@minafrzli/c-generics-f061dfbd6d24">Generics</a> <br/>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-list">List</a> <br/>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-dictionary">Dictionary</a> <br/>
+<a href="https://www.c-sharpcorner.com/UploadFile/36bc15/static-keyword-in-C-Sharp/">Static keyword</a> <br/>
+<a href="https://www.geeksforgeeks.org/static-keyword-in-c-sharp/">Static keyword 2</a> <br/>
 
 Task <br>
 Lesson-13 papkasinin icindeki tapsirigi tamamlayin(dersde yazdigimiz)
