@@ -228,6 +228,9 @@ c) Əgər məlumat 10 item-dən çox olarsa, növbədə (queue-list) sonuncu ola
 <h1> Lesson-13[11 iyul 2022] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
+<a href="https://medium.com/@minafrzli/c-generics-f061dfbd6d24">Generics</a> <br/>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-list">List</a> <br/>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-dictionary">Dictionary</a> <br/>
 
 Task <br>
 Lesson-13 papkasinin icindeki tapsirigi tamamlayin(dersde yazdigimiz)
