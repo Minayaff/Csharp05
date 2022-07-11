@@ -225,4 +225,52 @@ b) İçini müxtəlif mesajlarla doldurun.
 
 c) Əgər məlumat 10 item-dən çox olarsa, növbədə (queue-list) sonuncu olan elementi boşaldıb, yerinə yeni məlumatı salın.
 
+<h1> Lesson-13[11 iyul 2022] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
 
+Task <br>
+Lesson-13 papkasinin icindeki tapsirigi tamamlayin(dersde yazdigimiz)
+### 1) Aşağıdaki tapşırığı yerinə yetirin:
+
+a) int tipində List yaradın. 
+
+b) İstifadəçi 10 müxtəlif ədədlərlə listi doldursun.
+
+c) Daha sonra list-in son 5 elementi ilə ilk 5 elementinin yerlərini dəyişdirin.
+
+
+### 2) Aşağıdaki tapşırığı yerinə yetirin:
+
+a) int tipli elə bir kolleksiya yaradın ki, içində bütün item-lər unique olsun (təkrarlanma olmasın) və sort edilmiş vəziyyətdə olsun.
+
+b) Daha sonra içini müxtəlif ədədlərlə doldurun. (Console-dan)
+
+c) Nəticəni ekrana çap edin.
+
+### 3) Aptek sistemi
+
+Aşağıdakı member-leri olan Medicine (derman) classi yaradirsiniz
+
+- Name - dermanin adi
+- Price - dermanin qiymeti
+- Count - dermanin sayi
+
+Medicine obyektinin adi ve qiymeti yaradildigi an teyin olunmalidir.Adsiz ve ya qiymetsiz medicine obyekti ola bilmez
+Qeyd: Dermanin qiymeti 0-dan boyuk olmalidir.Dermanin sayi 0-dan az ola bilmez.
+
+
+Aşağıdakı memberlerden ibaret Pharmacy (aptek) class-i yaradirsiniz
+
+- Medicines - aptekdeki dermanlar siyahisini ifade edir (Medicine list-i)
+- TotalIncome - derman satislarindan elde edilen gelir.Bu memberin deyeri yalnizca satislar zamani artmalidir.Basqa hec bir sekilde deyisdirile bilinmemelidir.
+
+ - Sell() - bu metod derman satisi ifade edir.Parameter olaraq dermanin adi ve sayini qebul edir.
+            Hemin ada gore sihayidan axtarib tapacagi dermanin satisini heyata kecirir.
+            
+ - FindMedicineByName() - bu metod adina gore axtarilan derman obyektini geri qaytarir.Parameter olaraq axtarilan dermanin adini qebul edir.
+                          Hemin ad ile dermanlar sihayisindan axtaris edib eyni adli derman obyektini tapıb geri qaytarir.
+
+ - AddMedicine() - bu metod dermanlar siyahisina yeni derman elave etmeyi ifade edir.Parameter olaraq medicine qebul edir.
+ 
+ Qeyd : aptekin dermanlar siyahisinda eyni adda yalnizca bir medicine obyekti ola biler.İkinci eyin adli medicine obyekti elave edile bilmez
