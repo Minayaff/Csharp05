@@ -281,10 +281,41 @@ Aşağıdakı memberlerden ibaret Pharmacy (aptek) class-i yaradirsiniz
  Qeyd : aptekin dermanlar siyahisinda eyni adda yalnizca bir medicine obyekti ola biler.İkinci eyin adli medicine obyekti elave edile bilmez
 
 
-<h1> Lesson-14 [14 iyun 2022] </h1>
-Telefon kitabçası yaratmaq üçün yeni bir tip yaratmalısınız. Kitabçaya yeni biri əlavə edildikdə şəxsin adı və nömrəsi daxil edilməlidir. Əgər şəxsin adı kitabçada mövcuddursa, Console-da istifadəçiyə bu barədə məlumat verilməli və istifadəçinin iki seçimdən birini etməli olduğu göstərilməlidir. 1. Əvvəlki nömrəni saxlamaq; 2. Yeni nömrəni yazmaq.
+<h1> Lesson-14 [14 iyul 2022] </h1>
+Telefon kitabçası yaratmaq üçün yeni bir tip yaratmalısınız. Kitabçaya yeni biri əlavə edildikdə şəxsin adı və nömrəsi daxil edilməlidir. Əgər şəxsin adı kitabçada mövcuddursa, Console-da istifadəçiyə bu barədə məlumat verilməli və istifadəçinin iki seçimdən birini etməli olduğu göstərilməlidir. 1. Əvvəlki nömrəni saxlamaq; 2. Yeni nömrəni yazmaq. <br>
 
 
-Bundan əlavə kitabçada iki əlavə metod da olmalıdır. 1-ci metod şəxsin adını parameter olaraq qəbul etməlidir. Əgər bu adda kimsə varsa, o şəxsin telefon nömrəsini qaytarmalıdır, əks təkdirdə, bu adda kitabçada heç kəsin olmadığını bildirməlidir. 2-ci metod isə telefon nömrəsini qəbul etməlidir. Əgər bu nömrə kiməsə aiddirsə, o şəxsi qaytarmalıdır, əks təkdirdə, bu nömrənin kitabçada heç kəsə aid olmadığını bildirməlidir.
+Bundan əlavə kitabçada iki əlavə metod da olmalıdır. 1-ci metod şəxsin adını parameter olaraq qəbul etməlidir. Əgər bu adda kimsə varsa, o şəxsin telefon nömrəsini qaytarmalıdır, əks təkdirdə, bu adda kitabçada heç kəsin olmadığını bildirməlidir. 2-ci metod isə telefon nömrəsini qəbul etməlidir. Əgər bu nömrə kiməsə aiddirsə, o şəxsi qaytarmalıdır, əks təkdirdə, bu nömrənin kitabçada heç kəsə aid olmadığını bildirməlidir. <br>
 
-Əlavə olaraq, yuxarıdakı metodları bitirənlər daha iki metod da yaza bilərlər. Kitabçadan şəxsin adına və ya telefon nömrəsinə görə kimisə tapıb, onu silmək üçün iki ayrıca metod: RemoveByName və RemoveByPhone. Hər ikisində əgər göndərilən ad və ya nömrə kitabçada yoxdursa, uyğun şəkildə cavab qaytarılmalıdır.
+Əlavə olaraq, yuxarıdakı metodları bitirənlər daha iki metod da yaza bilərlər. Kitabçadan şəxsin adına və ya telefon nömrəsinə görə kimisə tapıb, onu silmək üçün iki ayrıca metod: RemoveByName və RemoveByPhone. Hər ikisində əgər göndərilən ad və ya nömrə kitabçada yoxdursa, uyğun şəkildə cavab qaytarılmalıdır. <br>
+
+<h1> Lesson-15 [17 iyul 2022] </h1>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-enum"> Enum</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-struct"> struct</a> <br>
+<a href="https://minafrzli.medium.com/struct-yoxsa-class-daha-s%C3%BCr%C9%99tlidir-3b65e91f4903"> Struct (aze)</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-while-loop">while loop </a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-do-while-loop"> do while loop </a> <br>
+
+1.CurrencyType enumi - Bu enum cerrency value-lari saxlayir (USD,EUR ve TL)
+
+ValutaExchanger static class
+
+Exchange() methodu - parameter olaraq valyuta (CurrencyType) ve meblegi (double)
+
+Curencies - icinde currency ve meblegini tutan collection (key value mentiqinde, key olaraq currencyType, value olaraq double)
+
+Main hissesinde bu metodlar bir nece enchage heyata kecirin, o emeliyyatlar ucun gotureceyiniz deyerleri console-dan qebul edin
+
+2.CashRegister (magazalardaki kassa aparati) classi yaradirziniz Bu class-in TotalAmount,Currency,TotalSalesCount xususiyyetleri ve AddNewSale ve RemoveSale metodlari olsun
+
+TotalAmount - kassa aparatinin kassasindaki pulun miqdarini ifade edir. Bu deyer kassa obyekti yaradildigi zaman mecburi olaraq daxil edilmeli ve daha sonradan yalnizca yeni satis elave edildikde ve ya silindikde avtomatik olaraq deyismelidir.
+
+Currency - kassa aparatinin istifade etdiyi valyutani bildirir. Currency ucun enum yaradin ve bu memberi typi olaraq da hemin enumdan istidafe edin
+
+PaymentType - satisin odenis novunu ifade edir.Bu card ve ya cash ola biler (odenis novu ucun enum istifade edin)
+
+TotalSalesCount - bu deyer kassaya daxil edilmis satis emeliyyatlarinin sayini ifade edir. Ilkin oalraq 0-dir ver yalnizca Yeni satis daxil edildikde ve ya silindikde deyisir
+
+AddSale - bu metod kassa aparatina yeni BİR satis elave etmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmoun-a elave edilmelidir
+
+RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmount-dan cixilir
