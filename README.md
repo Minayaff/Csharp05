@@ -319,3 +319,10 @@ TotalSalesCount - bu deyer kassaya daxil edilmis satis emeliyyatlarinin sayini i
 AddSale - bu metod kassa aparatina yeni BİR satis elave etmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmoun-a elave edilmelidir
 
 RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmount-dan cixilir
+
+<h1> Lesson-16 [21 iyul 2022] </h1>
+<a href="https://www.geeksforgeeks.org/introduction-of-programming-paradigms/ "> Introduction of Programming Paradigms</a> <br>
+<a href="https://medium.com/@hasandelibas/programlama-paradigmalar%C4%B1-d103dfbdcd01 "> Nedir Bu Programlama Paradigmaları</a> <br>
+<a href=" https://medium.com/@minafrzli/c-oopnin-3-%C9%99sas-prinsipi-c3c396a7eb13">Inheritance oxu </a> <br>
+<a href=" https://www.tutorialspoint.com/csharp/csharp_inheritance.htm">Inheritance </a> <br>
+
