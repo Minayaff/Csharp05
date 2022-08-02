@@ -331,9 +331,29 @@ RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. 
 <a href="https://medium.com/@minafrzli/c-oopnin-3-%C9%99sas-prinsipi-c3c396a7eb13">OOP 3prinsip oxu </a> <br>
 <a href="https://minafrzli.medium.com/c-interface-a057b3ff3b42">C# Interface</a> <br>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-interface">C# Interface 2</a> <br>
+
  ## Tapshiriq 1:
 
-Student.cs olsun, Name, Surname, Age propertyleri olsun, ancaq constructorda set olsun. Neche defe instance aldigimizi qaytaran Counter olsun, hansiniki yalniz constructorda set ede bilek.
+Asagidaki metodlari olan IAccount interface yaradirsiniz :
+     -    PasswordChecker() - parameter oalraq string sifreni qebul edir
+     -    ShowInfo()
+  
+   Asagidaki memberlerden ibaret User class-i yaradirsiniz ve IAccount-u implement edirsiniz:
+     - Fullname
+     - Email
+     - Password
+     - PasswordChecker() - PasswordChecker metodu - gelen string sifre deyerinin sertleri odeyib odemediyini yoxlayib true/false deyer qaytarir.
+                        Şertler:
+                        - sifrede minimum 8 character olmalidir
+                        - sifrede en az 1 boyuk herf olmaldir
+                        - sifrede en az 1 kicik herf olmalidir
+                        - sifrede en az 1 reqem olmalidir
+                        
+   - ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir
+     
+     ps: User classina IAccount interface-i implement edilir.User yarandigi zaman email ve sifre teyin edilmesi mecburidir.Usere sifre teyin edilerken sifrenin PasswordChecker        metodunun sertlerini odemesi lazimdir.
+     
+     
 
 ## Tapshiriq 2:
 
