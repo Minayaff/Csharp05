@@ -326,3 +326,21 @@ RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. 
 <a href="https://medium.com/@minafrzli/c-oopnin-3-%C9%99sas-prinsipi-c3c396a7eb13">Inheritance oxu </a> <br>
 <a href="https://www.tutorialspoint.com/csharp/csharp_inheritance.htm">Inheritance </a> <br>
 
+
+<h1> Lesson-17 [31 iyul 2022] </h1>
+<a href="https://medium.com/@minafrzli/c-oopnin-3-%C9%99sas-prinsipi-c3c396a7eb13">OOP 3prinsip oxu </a> <br>
+<a href="https://minafrzli.medium.com/c-interface-a057b3ff3b42">C# Interface</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-interface">C# Interface 2</a> <br>
+ ## Tapshiriq 1:
+
+Student.cs olsun, Name, Surname, Age propertyleri olsun, ancaq constructorda set olsun. Neche defe instance aldigimizi qaytaran Counter olsun, hansiniki yalniz constructorda set ede bilek.
+
+## Tapshiriq 2:
+
+IFigure interface yaratmaq, CalculateArea ve CalculatePerimeter method-u olsun. Rectangle, Circle, Triangle, Square bu interface-in methodlarini implement etsin.
+
+## Tapshiriq 3:
+
+ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene return type "double" olan ve parametrinde "params double[] numbers" method olsun. Bu 4 interface-i Calculator.cs class-inda her birini implement edin. Meselen: ISum interface-inde Sum() methodu olacaq ve arrayin butun elementlerini cemleyib qaytaracaq. Multiply - vurma, Difference -chixma, Divide - bolme. Sonda Program.cs-de Calculator.cs-i chagirib, verdiyiniz deyerlere uygun method chagirib neticeni gosterin.
+
+
