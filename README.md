@@ -334,33 +334,27 @@ RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. 
 
  ## Tapshiriq 1:
 
-Asagidaki metodlari olan IAccount interface yaradirsiniz :
-     -    PasswordChecker() - parameter oalraq string sifreni qebul edir
-     -    ShowInfo()
+Asagidaki metodlari olan IAccount interface yaradirsiniz : <br>
+     -    PasswordChecker() - parameter oalraq string sifreni qebul edir <br>
+     -    ShowInfo() <br>
   
-   Asagidaki memberlerden ibaret User class-i yaradirsiniz ve IAccount-u implement edirsiniz:
-     - Fullname
-     - Email
-     - Password
-     - PasswordChecker() - PasswordChecker metodu - gelen string sifre deyerinin sertleri odeyib odemediyini yoxlayib true/false deyer qaytarir.
-                        Şertler:
-                        - sifrede minimum 8 character olmalidir
-                        - sifrede en az 1 boyuk herf olmaldir
-                        - sifrede en az 1 kicik herf olmalidir
-                        - sifrede en az 1 reqem olmalidir
+   Asagidaki memberlerden ibaret User class-i yaradirsiniz ve IAccount-u implement edirsiniz: <br>
+     - Fullname <br>
+     - Email <br>
+     - Password <br>
+     - PasswordChecker() - PasswordChecker metodu - gelen string sifre deyerinin sertleri odeyib odemediyini yoxlayib true/false deyer qaytarir. <br>
+                        Şertler: <br>
+                        - sifrede minimum 8 character olmalidir <br>
+                        - sifrede en az 1 boyuk herf olmaldir <br>
+                        - sifrede en az 1 kicik herf olmalidir <br>
+                        - sifrede en az 1 reqem olmalidir <br>
                         
-   - ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir
+   - ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir <br>
      
-     ps: User classina IAccount interface-i implement edilir.User yarandigi zaman email ve sifre teyin edilmesi mecburidir.Usere sifre teyin edilerken sifrenin PasswordChecker        metodunun sertlerini odemesi lazimdir.
+     ps: User classina IAccount interface-i implement edilir.User yarandigi zaman email ve sifre teyin edilmesi mecburidir.Usere sifre teyin edilerken sifrenin PasswordChecker  metodunun sertlerini odemesi lazimdir. 
      
      
 
 ## Tapshiriq 2:
 
 IFigure interface yaratmaq, CalculateArea ve CalculatePerimeter method-u olsun. Rectangle, Circle, Triangle, Square bu interface-in methodlarini implement etsin.
-
-## Tapshiriq 3:
-
-ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene return type "double" olan ve parametrinde "params double[] numbers" method olsun. Bu 4 interface-i Calculator.cs class-inda her birini implement edin. Meselen: ISum interface-inde Sum() methodu olacaq ve arrayin butun elementlerini cemleyib qaytaracaq. Multiply - vurma, Difference -chixma, Divide - bolme. Sonda Program.cs-de Calculator.cs-i chagirib, verdiyiniz deyerlere uygun method chagirib neticeni gosterin.
-
-
